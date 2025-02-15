@@ -4,6 +4,9 @@ This project implements a Hand Gesture Recognition Model to accurately classify 
 The dataset is sourced from Kaggle: Leap Motion Gesture Dataset and contains various hand gesture images.
 link:-https://www.kaggle.com/datasets/gti-upm/leapgestrecog
 
+Note:- 1)hand_gesture_recognition.py this file is created for train the model
+       2)camera.py this file is created for test the model via camera
+
 Dataset
 The dataset consists of images of different hand gestures captured using a Leap Motion device. It contains multiple classes representing different hand signs.
 
